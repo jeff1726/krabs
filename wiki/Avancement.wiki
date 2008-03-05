@@ -1,0 +1,6 @@
+Alors en gros pour le moment on en est :
+
+- toutes les mli des servos sont générées et reliées aux bonnes pin, y compris la pwm I2C
+- la régulation est intégrée mais doit être testée
+- le Nios est créé, il faut encore le programmer comme il faut
+- les sonars sont prêts à l'emploi
